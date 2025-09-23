@@ -1,11 +1,4 @@
 ![image](assets/amigo-secreto.png)
-
-<details>
-  <summary><b>Demostración de la adición de miniatura</b></summary>
-    
-![adicionando-imagem-preview](https://user-images.githubusercontent.com/8989346/123303159-e0e24a00-d4f3-11eb-9900-92a8b15bc31b.gif)
-    
-</details>
   
 # Amigo Secreto 🎁
 
